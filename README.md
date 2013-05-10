@@ -1,10 +1,10 @@
 # Optometrist
 
-The optometrists favorite color theme for Terminal.app or iTerm2.app
+The optometrists favorite color theme for Terminal.app and iTerm2.
 
 ## Ouch!
 
-The default colors of my terminal hurted my eyes for years. I was used to it, but my optometrist told me to change it immediately.
+The default colors of my terminal were hurting my eyes for years. I was used to it, but my optometrist told me to change it immediately.
 
 ![The default colors hurt your eyes](https://github.com/pstadler/optometrist/raw/master/images/ouch.png "The default colors hurt your eyes")
 
